@@ -1,0 +1,10 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build
+target/
+
+# Secrets locaux
+.env
